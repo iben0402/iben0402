@@ -1,7 +1,7 @@
 ### Hello!
 👩‍💻 I'm a passionate full-stack developer with a strong affinity for Java, but I also have hands-on experience with Python, C++, JavaScript, and other programming languages.
 
-#### 🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science at the Gdańsk University of Technology.
+#### 🎓 Education: I pursued my Bachelor's degree in Computer Science at the Gdańsk University of Technology.
 #### 🔭 I’m currently working on: Spring Boot
 #### 📫 How to reach me: You can contact me through my LinkedIn profile that's linked in my profile.
 <!--
